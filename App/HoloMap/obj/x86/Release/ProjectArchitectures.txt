@@ -1,0 +1,2 @@
+C:\Users\EmersonBerlik\Documents\HoloMap\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\EmersonBerlik\Documents\HoloMap\App\HoloMap\HoloMap.csproj;x86
